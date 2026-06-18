@@ -1,0 +1,15 @@
+# macOS 系统垃圾
+.DS_Store
+
+# Xcode 用户私有 / 界面状态
+xcuserdata/
+*.xcuserstate
+*.xcscmblueprint
+
+# 编译产物
+build/
+DerivedData/
+
+# Swift Package Manager
+.swiftpm/
+.build/
